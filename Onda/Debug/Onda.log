@@ -1,0 +1,8 @@
+﻿  Onda.cpp
+c:\users\agnohendrix\source\repos\onda\onda\onda.cpp(106): warning C4101: 'colorbuffer': variabile locale senza riferimenti
+c:\users\agnohendrix\source\repos\onda\onda\onda.cpp(145): warning C4244: 'argomento': conversione da 'int' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\onda\onda\onda.cpp(191): warning C4305: '+=': troncamento da 'double' a 'float'
+c:\users\agnohendrix\source\repos\onda\onda\onda.cpp(195): warning C4305: '-=': troncamento da 'double' a 'float'
+c:\users\agnohendrix\source\repos\onda\onda\onda.cpp(309): warning C4326: il tipo restituito di 'main' dovrebbe essere 'int' invece di 'void'
+     Creazione della libreria C:\Users\Agnohendrix\source\repos\Onda\Debug\Onda.lib e dell'oggetto C:\Users\Agnohendrix\source\repos\Onda\Debug\Onda.exp
+  Onda.vcxproj -> C:\Users\Agnohendrix\source\repos\Onda\Debug\Onda.exe
